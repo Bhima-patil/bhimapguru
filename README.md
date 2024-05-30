@@ -1,2 +1,2 @@
 # bhimaportfolio
-Creating portfoli for devops 
+Creating portfolio for devops 
